@@ -8,3 +8,4 @@
 
 <a href="https://imgur.com/FqtQC6e"><img src="https://i.imgur.com/FqtQC6e.jpg" title="source: imgur.com" /></a>
 
+<img src="https://i.imgur.com/FqtQC6e.jpg" title="source: imgur.com" />
