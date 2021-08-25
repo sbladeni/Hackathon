@@ -6,6 +6,4 @@
 
 <br><a href="https://www.roblox.com/"><button>roblox</button></a>
 
-<a href="https://imgur.com/FqtQC6e"><img src="https://i.imgur.com/FqtQC6e.jpg" title="source: imgur.com" /></a>
-
 <img src="https://i.imgur.com/FqtQC6e.jpg" title="source: imgur.com" />
