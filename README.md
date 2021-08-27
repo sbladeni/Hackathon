@@ -7,4 +7,3 @@
 <br><a href="https://www.roblox.com/"><button>roblox</button></a>
 
 <img src="Images/medium_jigglypuff-detective-pikachu-1143998-1280x0.jpeg">
-<img src="https://i.imgur.com/FqtQC6e.jpg" title="source: imgur.com" />
